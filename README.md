@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Sidhant_ harma**
+- 👋 Hi, I’m **Sidhant_ Sharma**
 - 👀 I’m interested in **web development**
 - 🌱 I’m currently learning **front end (html, CSS, Javascript)**
 - 💞️ I’m looking to collaborate on some projects regarding **Web Development.**
